@@ -5,7 +5,7 @@
         "type": "announcement-bar",
         "settings": {
           "show_announcement": true,
-          "color_bg": "#dbc18b"
+          "color_bg": "#EE113C"
         }
       },
       "header": {
